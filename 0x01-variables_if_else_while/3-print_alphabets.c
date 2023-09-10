@@ -9,7 +9,7 @@
 */
 
 int main(void)
-
+{
 	char ch = 'a';
 	char CH = 'A';
 
@@ -27,3 +27,4 @@ int main(void)
 	putchar('\n');
 
 	return (0);
+	}
